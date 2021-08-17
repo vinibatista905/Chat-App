@@ -6,7 +6,7 @@
 
 ## :camera: Demonstração
 
-Teste aqui: https://vini-chat-app.netlify.app/
+Confira aqui: https://vini-chat-app.netlify.app/
 
 <p> Username: fulano / Password: 123123 </p>
 <p> Username: vinibatista / Password: 123123 </p>
